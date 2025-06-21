@@ -1,2 +1,3 @@
-# contest3
-Kaggle classification competition
+# Kaggle classification competition
+
+Задача состоит в том, чтобы использовать данные обследования психического здоровья для изучения факторов, которые могут привести людей к депрессии.
